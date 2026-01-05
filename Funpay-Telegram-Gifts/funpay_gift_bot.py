@@ -78,7 +78,7 @@ PRECHECK_BALANCE = _env_bool("PRECHECK_BALANCE", True)
 CREATOR_NAME = os.getenv("CREATOR_NAME", "@wyoxn")
 CREATOR_URL = os.getenv("CREATOR_URL", "https://t.me/wyoxn")
 CHANNEL_URL = os.getenv("CHANNEL_URL", "https://t.me/cloudecode")
-GITHUB_URL = os.getenv("GITHUB_URL", "https://github.com/tinechelovec/Funpay-Telegram-Gifts")
+GITHUB_URL = os.getenv("GITHUB_URL", "https://github.com/tgwyoxn/Funpay-Telegram-Gifts-")
 HELP_URL = os.getenv("HELP_URL", "https://teletype.in/@kirill_nft/hfRT2SUhOZ1")
 BANNER_NOTE = os.getenv(
     "BANNER_NOTE",
@@ -1206,4 +1206,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
