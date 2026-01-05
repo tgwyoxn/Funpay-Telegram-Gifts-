@@ -26,7 +26,7 @@ CATEGORY_IDS=3064,2418
 REPLY_COOLDOWN_SECONDS=1.0
 ```
 
-Более подробная [Инструкция]([https://teletype.in/@tinechelovec/Funpay-Telegram-Gifts](https://teletype.in/@kirill_nft/hfRT2SUhOZ1))
+Более подробная [Инструкция](https://teletype.in/@tinechelovec/Funpay-Telegram-Gifts](https://teletype.in/@kirill_nft/hfRT2SUhOZ1)
    
 По всем багам, вопросам и предложениям пишите в [Issues](https://github.com/tinechelovec/Funpay-Telegram-Gifts/issues) или в [Telegram](https://t.me/tinechelovec)
 
