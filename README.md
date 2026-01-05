@@ -28,6 +28,6 @@ REPLY_COOLDOWN_SECONDS=1.0
 
 Более подробная [https://teletype.in/@tinechelovec/Funpay-Telegram-Gifts](https://teletype.in/@kirill_nft/hfRT2SUhOZ1)
    
-По всем багам, вопросам и предложениям пишите в [Issues](https://github.com/tinechelovec/Funpay-Telegram-Gifts/issues) или в [Telegram](https://t.me/tinechelovec)
+По всем багам, вопросам и предложениям пишите в [Telegram](https://t.me/wyoxn)
 
-Другие боты и плагины [Channel](https://t.me/by_thc)
+Другие боты и плагины [Channel](https://t.me/cloudecode)
